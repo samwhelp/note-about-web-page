@@ -1,6 +1,7 @@
 
 ## Demo
 
+* [demo_100](https://samwhelp.github.io/note-about-web-page/demo/use_case/prefers_color_scheme/demo_100/) ([code](demo_100/index.html))
 * [demo_101](https://samwhelp.github.io/note-about-web-page/demo/use_case/prefers_color_scheme/demo_101/) ([code](demo_101/index.html))
 * [demo_102](https://samwhelp.github.io/note-about-web-page/demo/use_case/prefers_color_scheme/demo_102/) ([code](demo_102/index.html))
 * [demo_103](https://samwhelp.github.io/note-about-web-page/demo/use_case/prefers_color_scheme/demo_103/) ([code](demo_103/index.html))
