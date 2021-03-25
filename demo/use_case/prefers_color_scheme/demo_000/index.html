@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<title>範例</title>
+
+<style>
+
+:root {
+	--bg-color: #eee;
+	--fg-color: #333;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg-color: #333;
+		--fg-color: #eee;
+	}
+}
+
+body {
+	background: var(--bg-color);
+	color: var(--fg-color);
+}
+
+</style>
+
+</head>
+
+<h1>首頁</h1>
+<p>內容</p>
+
+
+</body>
+</html>
